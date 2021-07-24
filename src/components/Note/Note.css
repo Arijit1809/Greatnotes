@@ -1,0 +1,30 @@
+.note-container {
+  -webkit-transition: border 0.1s ease-in-out;
+  transition: border 0.1s ease-in-out;
+}
+
+.note-container:hover {
+  cursor: pointer;
+}
+
+.note-container.active {
+  border-left: 4px solid var(--primary);
+  background: var(--primary-light);
+}
+
+.note {
+  border-bottom: 0.8px solid var(--color-border);
+  padding: 10px 1.2rem 10px 0;
+  margin-left: 1.2rem;
+  -webkit-transition: border 0.1s ease-in-out;
+  transition: border 0.1s ease-in-out;
+}
+
+.note-title,
+.note-preview {
+  margin: 6px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+/*# sourceMappingURL=Note.css.map */

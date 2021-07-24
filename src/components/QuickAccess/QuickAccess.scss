@@ -1,0 +1,17 @@
+.quick-access {
+  padding: 0.8rem;
+
+  display: flex;
+  flex-direction: column;
+
+  grid-column: 2 / 3;
+  grid-row: 2 / 3;
+
+  opacity: 0.3;
+
+  &:hover {
+    opacity: 0.8;
+    transition: 0.2s;
+    transition-timing-function: cubic-bezier(0.42, 0, 0.01, 1.32);
+  }
+}

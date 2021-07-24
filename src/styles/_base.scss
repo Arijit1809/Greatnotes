@@ -1,0 +1,29 @@
+html {
+  background: var(--background);
+  color: var(--color-text);
+  font-family: var(--font);
+  font-size: 1.2rem;
+}
+
+::-webkit-scrollbar {
+  display: none !important;
+}
+
+* :focus {
+  outline: 0;
+}
+
+h1,
+h2 {
+  margin-top: 0 !important;
+  margin-bottom: 0.8rem !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--color-text-secondary);
+}

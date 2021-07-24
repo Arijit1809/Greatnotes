@@ -1,0 +1,23 @@
+.editor blockquote {
+  border-left: 4px solid var(--primary);
+  padding: 5px 0.8rem;
+  opacity: 0.8;
+  margin: 16px 0;
+}
+
+.editor .public-DraftStyleDefault-pre {
+  padding: 0.8rem;
+  margin: 16px 0;
+}
+
+.editor pre {
+  background: var(--color-code-background);
+  color: var(--color-code);
+  margin: 0;
+  border-radius: 0.2rem;
+}
+
+.editor pre pre {
+  background: none;
+}
+/*# sourceMappingURL=BlockStyles.css.map */

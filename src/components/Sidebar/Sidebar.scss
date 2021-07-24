@@ -1,0 +1,38 @@
+.sidebar {
+  transition:0.35s;
+  position: relative;
+  height: 100vh;
+  display: grid;
+  grid-template-rows: 60px auto;
+  border-right: var(--border);
+  border-left: var(--border);
+  overflow: auto;
+  width: 300px;
+
+  &.collapsed {
+    width: 0;
+  }
+}
+@media (max-width: 768px){
+  .sidebar{
+    left:-100%;
+    top:-100%;
+    display:none;
+  }
+}
+/* Placed at the right side */
+.resizer{
+  cursor: col-resize;
+  position: absolute;
+  height: 100%;
+  right: 0;
+  top: 0;
+  width: 5px;
+}
+
+.sidebar-header {
+  display: flex;
+  align-items: center;
+  padding: 5px 0 5px 15px;
+  border-bottom: var(--border);
+}

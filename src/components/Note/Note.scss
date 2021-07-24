@@ -1,0 +1,27 @@
+.note-container {
+  transition: border 0.1s ease-in-out;
+
+  &:hover {
+    cursor: pointer;
+  }
+
+  &.active {
+    border-left: 4px solid var(--primary);
+    background: var(--primary-light);
+  }
+}
+
+.note {
+  border-bottom: 0.8px solid var(--color-border);
+  padding: 10px 1.2rem 10px 0;
+  margin-left: 1.2rem;
+  transition: border 0.1s ease-in-out;
+}
+
+.note-title,
+.note-preview {
+  margin: 6px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

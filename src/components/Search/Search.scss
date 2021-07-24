@@ -1,0 +1,12 @@
+.search-bar {
+  font-size: 22px;
+
+  .search-bar-input {
+    border-style: none;
+    background: none;
+    color: var(--color-text);
+
+    line-height: 1;
+    overflow: auto;
+  }
+}

@@ -1,0 +1,22 @@
+.themes-modal {
+  background: var(--background);
+  border-radius: 15px;
+  color: var(--color-text);
+
+  display: grid;
+  grid-template-rows: auto 1fr;
+
+  max-width: 550px;
+  max-height: 500px;
+  padding: 1.2rem 1.2rem 0 1.2rem;
+
+  box-shadow: var(--modal-shadow);
+  border: var(--border);
+}
+
+.themes-previews {
+  border-top: var(--border);
+
+  overflow: auto;
+  padding: 1.2rem 0;
+}

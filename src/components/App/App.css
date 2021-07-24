@@ -1,0 +1,8 @@
+#app-container {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: auto 1fr;
+      grid-template-columns: auto 1fr;
+  border-top: var(--border);
+}
+/*# sourceMappingURL=App.css.map */
