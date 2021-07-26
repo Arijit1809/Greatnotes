@@ -20,7 +20,7 @@ export default [
         },
         {
           key: "99hbq",
-          text: "An editor worthy of your notes.",
+          text: "An editor great for making notes.(even offline!)",
           type: "header-two",
           depth: 0,
           inlineStyleRanges: [],
@@ -98,7 +98,7 @@ export default [
         },
         {
           key: "31dou",
-          text: "Lists, including unordered & ordered lists.",
+          text: "Lists, including numbered & bulleted lists.",
           type: "unordered-list-item",
           depth: 0,
           inlineStyleRanges: [],
@@ -125,7 +125,7 @@ export default [
         },
         {
           key: "6plpk",
-          text: '"Writing, more than any other art, is indexed to the worthiness of the self because it is identified in people\'s minds with emotion." -rachel cusk',
+          text: '"Write blockquotes that make your notes stand out"',
           type: "blockquote",
           depth: 0,
           inlineStyleRanges: [],
@@ -161,7 +161,7 @@ export default [
         },
         {
           key: "585a2",
-          text: "make a rich text editor",
+          text: "Make a rich text editor",
           type: "ordered-list-item",
           depth: 0,
           inlineStyleRanges: [],
@@ -172,7 +172,7 @@ export default [
         },
         {
           key: "6deno",
-          text: "develope a file system",
+          text: "Put the notes on a database",
           type: "ordered-list-item",
           depth: 0,
           inlineStyleRanges: [
@@ -189,7 +189,7 @@ export default [
         },
         {
           key: "addu1",
-          text: "learn back-end development ",
+          text: "Learn how to do it :P ",
           type: "ordered-list-item",
           depth: 0,
           inlineStyleRanges: [],
@@ -200,7 +200,7 @@ export default [
         },
         {
           key: "5n6n5",
-          text: "persist notes to the cloud",
+          text: "Enjoy what you do",
           type: "ordered-list-item",
           depth: 0,
           inlineStyleRanges: [],
@@ -218,7 +218,7 @@ export default [
         },
         {
           key: "5eb16",
-          text: "Writing notes should be a minimal, yet powerful experience. Writing notes with Goodnotes is a very clean experience, which leads to a distraction free environment. Together with a large catalog of themes, Noteworthy lets you personalize your experience with zero clutter involved. ",
+          text: "Writing notes should be a minimal, yet powerful experience. Writing notes with Greatnotes is a very clean experience, which leads to a distraction free environment. Together with a large catalog of themes, greatnotes lets you personalize your experience with zero clutter involved. ",
           type: "unstyled",
           depth: 0,
           inlineStyleRanges: [
