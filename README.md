@@ -1,5 +1,6 @@
 # Greatnotes
 Greatnotes is a WYSIWYG editor/Notes app which can also be downloaded directly to your desktop(PWA).
+
 **Project Link -** **[GreatNotes](greatnotes.netlify.app)**
 ## Visuals
 **Landing Page-**
