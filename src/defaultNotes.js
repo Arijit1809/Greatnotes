@@ -178,7 +178,7 @@ export default [
           inlineStyleRanges: [
             {
               offset: 0,
-              length: 22,
+              length: 27,
               style: "STRIKETHROUGH",
             },
           ],
