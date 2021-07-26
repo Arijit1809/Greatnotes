@@ -4,11 +4,17 @@ Greatnotes is a WYSIWYG editor/Notes app which can also be downloaded directly t
 ***
 ## Visuals
 **Landing Page-**
+
 ![Greatnotes](https://github.com/Arijit1809/Greatnotes/blob/main/images/greatnotes.png?raw=true)
+
 **Themes that you can choose as you like-**
+
 ![Themes](https://github.com/Arijit1809/Greatnotes/blob/main/images/themes.jpg?raw=true)
+
 **Download as a PWA-**
+
 ![PWA](https://github.com/Arijit1809/Greatnotes/blob/main/images/pwa.png?raw=true)
+
 ***
 ## Features
 * **Format notes to have different heading styles,**
