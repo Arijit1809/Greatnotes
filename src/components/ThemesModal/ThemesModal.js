@@ -5,7 +5,7 @@ import "./ThemesModal.scss";
 
 const ThemesModal = props => {
   const themes = [
-    "Noteworthy",
+    "Default",
     "Eclipse",
     "Bloom",
     "Gloom",
