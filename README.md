@@ -1,11 +1,7 @@
 # Greatnotes
-
 Greatnotes is a WYSIWYG editor/Notes app which can also be downloaded directly to your desktop(PWA).
-
-
 **Project Link -** **[GreatNotes](greatnotes.netlify.app)**
 ***
-
 ##Visuals
 **Landing Page-**
 ![Greatnotes](https://github.com/Arijit1809/Greatnotes/blob/main/images/greatnotes.png?raw=true)
@@ -14,7 +10,6 @@ Greatnotes is a WYSIWYG editor/Notes app which can also be downloaded directly t
 **Download as a PWA-**
 ![PWA](https://github.com/Arijit1809/Greatnotes/blob/main/images/pwa.png?raw=true)
 ***
-
 ##Features
 * **Format notes to have different heading styles,**
 * **Inline styles such as bold, italic, underline, highlight, strikethrough and code.**
@@ -22,9 +17,7 @@ Greatnotes is a WYSIWYG editor/Notes app which can also be downloaded directly t
 * **Quotes and codeblocks.**
 * **Download the progressive web app to do all this directly in your desktop**
 * **Change themes to match the mood and your liking**
-
 ***
-
 ##Installation
 Clone the github repository and run the command `npm install` in the command line.
 
